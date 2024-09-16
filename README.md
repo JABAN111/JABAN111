@@ -15,6 +15,6 @@
   </div>
 </div>
 
-## [Резюме в pdf формате](https://github.com/JABAN111/JABAN111/files/15068293/CV_compressed.pdf)
+
 
 ---
