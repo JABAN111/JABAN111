@@ -1,4 +1,4 @@
-# study-ITMO-university
+# ITMO University student
 
 <div id="header" align="center">
   <img src="resources/dd9ae61183ae9e25ef154d61aceb2a8f.jpg" width="300" height="350"/>
