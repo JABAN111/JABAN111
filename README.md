@@ -1,7 +1,10 @@
 # study-ITMO-university
----
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="resources/dd9ae61183ae9e25ef154d61aceb2a8f.jpg" width="100"/>
+  <div>
+    <p>Та самая <b>жаба</b></p>
+  </div>
   <div id="badges">
     <a href="https://t.me/jaba368" target = "_blank">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
