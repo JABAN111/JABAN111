@@ -1,7 +1,7 @@
 # study-ITMO-university
 
 <div id="header" align="center">
-  <img src="resources/dd9ae61183ae9e25ef154d61aceb2a8f.jpg" width="100"/>
+  <img src="resources/dd9ae61183ae9e25ef154d61aceb2a8f.jpg" width="300" height="350"/>
   <div>
     <p>Та самая <b>жаба</b></p>
   </div>
