@@ -12,9 +12,7 @@
   <a href = "https://vk.com/smekla" target = "_blank">
   <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href = "https://leetcode.com/JABAN111" target = "_blank">
-  <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
+
   </div>
 </div>
 
